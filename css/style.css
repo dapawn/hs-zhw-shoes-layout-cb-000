@@ -293,6 +293,9 @@ iframe {
 	  margin-left: 0%;
 	}
 
+ div#feature {
+   padding: 5px;
+ }
 /********** Details **********/
 
 #details {
