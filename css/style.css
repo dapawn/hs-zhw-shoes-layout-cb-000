@@ -296,6 +296,10 @@ iframe {
  div#feature {
    margin-bottom: 15px;
  }
+
+ .hifix {
+   height: 100%;
+ }
 /********** Details **********/
 
 #details {
