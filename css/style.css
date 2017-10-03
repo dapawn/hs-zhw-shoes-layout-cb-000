@@ -299,6 +299,7 @@ iframe {
 
  .hifix {
    height: 100%;
+   padding-bottom: 0;
  }
 /********** Details **********/
 
